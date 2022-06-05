@@ -1,0 +1,24 @@
+{
+  "name": "zuriprogramming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functonArrow_cookie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahom-getachew7/zuri_programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahom-getachew7/zuri_programming/issues"
+  },
+  "homepage": "https://github.com/nahom-getachew7/zuri_programming#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1"
+  }
+}
