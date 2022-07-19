@@ -1,7 +1,7 @@
 var nodemailer = require('nodemailer');
 
 //send email
-exports.sendingMail = (email, token) => {
+exports.sendingMail = ("example@gmail.com", token) => {
 
     var email = email;
     var token = token;
